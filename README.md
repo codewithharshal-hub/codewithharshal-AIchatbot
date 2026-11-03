@@ -23,6 +23,16 @@
 | Database | MongoDB |
 | Version Control | Git & GitHub |
 
+## 👤 Author
+
+**Harshal Borkar**
+
+[Visit my GitHub Profile](https://github.com/codewithharshal-hub)
+
+---
+
+⭐ If you like this project, give it a star!
+
 ## 📁 Project Structure
 
 ```text
