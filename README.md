@@ -33,6 +33,9 @@
 
 ⭐ If you like this project, give it a star!
 
+<img width="1906" height="917" alt="image" src="https://github.com/user-attachments/assets/3d84e3e4-a1b1-4088-b33e-98590f3c7a69" />
+
+
 ## 📁 Project Structure
 
 ```text
